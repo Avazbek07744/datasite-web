@@ -1,0 +1,114 @@
+{
+    "datasite": [
+        {
+            "icon": "fa-solid fa-chalkboard-user",
+            "title": "Tajribali o'qituvchilar"
+        },
+        {
+            "icon": "fa-solid fa-globe",
+            "title": "Haqiqiy Dasturlash muhiti"
+        },
+        {
+            "icon": "fa-solid fa-award",
+            "title": "Yuqori IELTS manzili"
+        }
+    ],
+    "team": [
+        {
+            "name": "Artur",
+            "experience": 4,
+            "image": "/images/people/artur.jpg",
+            "description": "lorem ipsum dolor sit amet"
+        },
+        {
+            "name": "Odam",
+            "experience": 8,
+            "image": "/images/people/odam.jpg",
+            "description": "lorem ipsum dolor sit amet"
+        },
+        {
+            "name": "Pol",
+            "experience": 5,
+            "image": "/images/people/pol.jpg",
+            "description": "lorem ipsum dolor sit amet"
+        },
+        {
+            "name": "Armin",
+            "experience": 6,
+            "image": "/images/people/armin.jpg",
+            "description": "lorem ipsum dolor sit amet"
+        },
+        {
+            "name": "Malik",
+            "experience": 7,
+            "image": "/images/people/malik.jpg",
+            "description": "lorem ipsum dolor sit amet"
+        },
+        {
+            "name": "Kamol",
+            "experience": 3,
+            "image": "/images/people/kamol.jpg",
+            "description": "lorem ipsum dolor sit amet"
+        },
+        {
+            "name": "Leyla",
+            "experience": 9,
+            "image": "/images/people/leyla.jpg",
+            "description": "lorem ipsum dolor sit amet"
+        },
+        {
+            "name": "Shahzod",
+            "experience": 2,
+            "image": "/images/people/shahzod.jpg",
+            "description": "lorem ipsum dolor sit amet"
+        },
+        {
+            "name": "Nilufar",
+            "experience": 4,
+            "image": "/images/people/nilufar.jpg",
+            "description": "lorem ipsum dolor sit amet"
+        },
+        {
+            "name": "Jasur",
+            "experience": 6,
+            "image": "/images/people/jasur.jpg",
+            "description": "lorem ipsum dolor sit amet"
+        },
+        {
+            "name": "Dilorom",
+            "experience": 5,
+            "image": "/images/people/dilorom.jpg",
+            "description": "lorem ipsum dolor sit amet"
+        },
+        {
+            "name": "Bobur",
+            "experience": 7,
+            "image": "/images/people/bobur.jpg",
+            "description": "lorem ipsum dolor sit amet"
+        },
+        {
+            "name": "Kamila",
+            "experience": 1,
+            "image": "/images/people/kamila.jpg",
+            "description": "lorem ipsum dolor sit amet"
+        },
+        {
+            "name": "Farhod",
+            "experience": 10,
+            "image": "/images/people/farhod.jpg",
+            "description": "lorem ipsum dolor sit amet"
+        },
+        {
+            "name": "Aziza",
+            "experience": 2,
+            "image": "/images/people/aziza.jpg",
+            "description": "lorem ipsum dolor sit amet"
+        },
+        {
+            "name": "Erkin",
+            "experience": 8,
+            "image": "/images/people/erkin.jpg",
+            "description": "lorem ipsum dolor sit amet"
+        }
+    ]
+}
