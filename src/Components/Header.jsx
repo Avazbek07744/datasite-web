@@ -10,9 +10,8 @@ const Header = () => {
 
     return (
         <header className="fixed top-0 left-0 right-0 z-50 bg-black/30 backdrop-blur-md shadow-md">
-            <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-10">
+            <div className="lg:max-w-7xl mx-auto px-4 sm:px-6 lg:px-10">
                 <div className="flex justify-between items-center h-20">
-                    {/* Logo */}
                     <Link to="/" className="flex items-center gap-3">
                         <img src={logo} alt="Logo" className="h-12" />
                         <div className="leading-tight select-none">
@@ -21,7 +20,6 @@ const Header = () => {
                         </div>
                     </Link>
 
-                    {/* Desktop Nav */}
                     <nav className="hidden md:flex items-center gap-8 text-white font-medium">
                         <Link className="hover:text-yellow-400 transition" to="/">Bosh Sahifa</Link>
                         <Link className="hover:text-yellow-400 transition" to="/about">About</Link>
@@ -35,7 +33,6 @@ const Header = () => {
                         </Link>
                     </nav>
 
-                    {/* Mobile Toggle */}
                     <div className="md:hidden">
                         <button
                             onClick={toggleMenu}
@@ -48,7 +45,6 @@ const Header = () => {
                 </div>
             </div>
 
-            {/* Mobile Menu */}
             {isMenuOpen && (
                 <div className="md:hidden bg-black/90 px-6 pb-6 pt-4 text-white space-y-4">
                     <Link onClick={toggleMenu} to="/" className="block hover:text-yellow-400">Bosh Sahifa</Link>

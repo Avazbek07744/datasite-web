@@ -115,7 +115,7 @@
     @apply border-border outline-ring/50;
   }
   .bace{
-    @apply max-w-[1350px] mx-auto px-5 md:p-0
+    @apply max-w-[1350px] mx-auto px-10 md:p-0
   }
   .link-hov{
     @apply border-b-2 border-transparent transition-all duration-300 hover:border-[#BC9280] hover:text-[#BC9280] pb-2.5
