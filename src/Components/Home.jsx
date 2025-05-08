@@ -8,7 +8,7 @@ import {
     CarouselItem,
     CarouselNext,
     CarouselPrevious,
-} from "@/components/ui/carousel";
+} from "../components/ui/carousel";
 import CountUp from "react-countup";
 import Footer from './Footer';
 import { Link } from 'react-router-dom';
